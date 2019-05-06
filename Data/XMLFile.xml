@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <LastName>דוגמה</LastName>
+    <FirstName>דוגמה</FirstName>
+    <Email>dugma1@gmail.com</Email>
+    <Country>אסיה</Country>
+    <age>20</age>
+    <gender>זכר</gender>
+    <Q1>השרות מצויין</Q1>
+    <Q2>
+      <Q2A>חיפוש בגוגל</Q2A>
+      <Q2A>המלצה של חברים</Q2A>
+    </Q2>
+    <Q3>בטוח</Q3>
+    <Q4>undefined</Q4>
+  </user>
+  
+</users>
